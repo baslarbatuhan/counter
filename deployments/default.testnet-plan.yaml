@@ -10,7 +10,7 @@ plan:
       transactions:
         - contract-publish:
             contract-name: counter
-            expected-sender: STEH1K6DTXYQFJ3NC0XQN54M9B3BK7X13H94QQSM
+            expected-sender: STANCHB9BYBYSQ72MGFREDA3S765WX8PK5Q55B6D
             cost: 1314
             path: contracts/counter.clar
             anchor-block-only: true
